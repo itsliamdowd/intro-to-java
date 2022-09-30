@@ -1,4 +1,4 @@
-// A program that uses the scanner to get three numbers from the user, adds them, and then print out the average
+// A program that uses the scanner to get three numbers from the user, adds them, and then prints out the average
 
 import java.util.Scanner;
 
