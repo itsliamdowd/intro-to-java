@@ -11,7 +11,7 @@ public class FindAverageUsingScanner {
         int num2 = scan.nextInt();
         System.out.print("Enter the third integer: ");
         int num3 = scan.nextInt();
-        int added = num1 + num2 + num3;
+        double added = num1 + num2 + num3;
         added = added/3;
         System.out.print(added);
     }
