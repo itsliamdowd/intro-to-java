@@ -1,4 +1,4 @@
-//Converts fahrenheit to celsius using java
+//A program that takes fahrenheit as the input and then converts it to celsius using java
 
 import java.util.Scanner;
 
