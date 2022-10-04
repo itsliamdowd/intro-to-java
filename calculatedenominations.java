@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class coinsamount {
+public class calculatedenominations {
     public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);
         System.out.print("Enter your total: ");
