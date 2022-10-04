@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class calculatesum {
+public class findaverage {
     public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);
         System.out.print("Enter the first integer: ");
