@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class timechanges {
+public class timetoseconds {
     public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);
         System.out.print("Hours: ");
